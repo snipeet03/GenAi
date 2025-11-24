@@ -10,3 +10,4 @@ scikit-learn
 nltk
 jupyter 
 svgling
+gensim 
